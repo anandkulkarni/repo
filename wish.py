@@ -2,7 +2,7 @@
 
 import scrapy
 
-#prompt the user for his name and keep it in a variable called name
+name = raw_input('Howdy. What is your name?')
 
 #prompt the user for the webpage where we're scraping records from
 
