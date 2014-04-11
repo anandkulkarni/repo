@@ -2,9 +2,9 @@
 
 import scrapy
 
-name = raw_input('Howdy. What is your name?')
-
-webpage = raw_input('Cool. What site you wanna scrape?')
+#prompt the user for his name and keep it in a variable called name
+ 
+#prompt the user for the webpage where we're scraping records from
 
 #scrape all records from the webpage that contain the user's name
 
